@@ -19,5 +19,5 @@
 		"movement": 12,
 		"strengh": 250,
 		"cost": 0,
-		"promotions": ["Undead"]
+		"promotions": "Undead"
 	}
