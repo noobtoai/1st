@@ -1,16 +1,5 @@
 [
-	{
-		"name": "羅漢腳",
-		"unitType": "Civilian",
-		"uniqueTo": "臺灣",
-		"replaces": "Settler",
-		"movement": 5,
-		"cost": 10,
-		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
-		"hurryCostModifier": 10
-		"strength": 5,
-	},
+	
 	{
 		"name": "民兵",
 		"unitType": "Civilian",
