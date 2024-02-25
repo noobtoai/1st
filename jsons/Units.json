@@ -1,24 +1,26 @@
 [
 	{
-		"name": "弓神",
-		"unitType": "Archery",
+		"name": "羅漢腳",
+		"unitType": "Civilian",
 		"uniqueTo": "臺灣",
-		"replaces": "Archer",
-		"movement": 10,
-		"strength": 500,
-		"rangedStrength": 100,
+		"replaces": "Settler",
+		"movement": 5,
+		"cost": 10,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 10
+		"strength": 5,
+		"rangedStrength": 10,
 		"range": 5,
-		"cost": 0,
-		"promotions": ["Indirect Fire","Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"promotions": "Woodsman",
 	},
 	{
 		"name": "民兵",
 		"unitType": "Civilian",
 		"uniqueTo": "臺灣",
 		"replaces": "Worker",
-		"movement": 20,
-		"strength": 810,
+		"movement": 5,
+		"strength": 16,
 		"cost": 0,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"promotions": ["Woodsman","Sentry","Great Generals I"]
