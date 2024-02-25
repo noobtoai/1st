@@ -11,5 +11,15 @@
 		"cost": 0,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "侵占王",
+		"unitType": "Sword",
+		"replaces": "Warrier",
+		"uniqueTo": "臺灣",
+		"movement": 13,
+		"strengh" 300,
+		"cost": 0,
 	}
+
 ]
