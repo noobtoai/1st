@@ -13,12 +13,17 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "Gravedigger",
+		"name": "Undead Warrior",
+		"unitType": "Sword",
 		"uniqueTo": "臺灣",
-		"unitType": "Civilian",
+		"replaces": "Settler",
 		"movement": 20,
-		"obsoleteTech": "Agriculture",
-		"uniques": "Founds a new city",
+		"strength": 810,
+		"cost": 0,
+		"upgradesTo": "Swordsman",
+		"obsoleteTech": "Metal Casting",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Unbuildable"],
+
 	}
 
 
