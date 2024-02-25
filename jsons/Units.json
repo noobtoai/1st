@@ -1,13 +1,13 @@
-[
+][
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
 		"uniqueTo": "臺灣",
 		"replaces": "Scout",
-		"movement": 100,
-		"strength": 1000,
-		"rangedStrength": 100,
-		"range": 150,
+		"movement": 10,
+		"strength": 100,
+		"rangedStrength": 20,
+		"range": 15,
 		"cost": 0,
 		"promotions": ["All tiles cost 1 movement","Ignores Zone of Control",
 				"May enter foreign tiles without open borders",
