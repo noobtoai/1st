@@ -13,15 +13,13 @@
 			"[+3 Production] <after discovering [Biology]>",
 			"Can be built outside your borders"],
 		"techRequired": "Agriculture",
-		"shortcutKey": "G"
 	},
 	{
 		"name": "田埂",
-    "uniqueTo": "臺灣",
+  	        "uniqueTo": "臺灣",
 		"terrainsCanBeBuiltOn": ["Plains"],
 		"turnsToBuild": 2,
 		"techRequired": "Railroads",
 		"uniques": "Can be built outside your borders",
-		"shortcutKey": "R",
 	}
 ]
