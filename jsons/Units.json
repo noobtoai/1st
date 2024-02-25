@@ -11,23 +11,5 @@
 		"cost": 0,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	},
-	{
-		"name": "征服者",
-		"unitType": "Civilian",
-		"replaces": "Settler",
-		"uniqueTo": "臺灣",
-		"movement": 12,
-		"strengh": 250,
-		"cost": 0,
-	},
-	{
-		"name": "侵占王",
-		"unitType": "Sword",
-		"replace": "Warrier",
-		"uniqueTo": "臺灣",
-		"movement": 13,
-		"strengh" 300,
-		"cost": 0,
 	}
 ]
