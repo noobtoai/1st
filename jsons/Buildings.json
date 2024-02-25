@@ -2,8 +2,8 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
+		"uniqueTo": "臺灣",
+		"cost": 0,
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
@@ -15,8 +15,8 @@
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"uniqueTo": "臺灣",
+		"cost": 0,
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
