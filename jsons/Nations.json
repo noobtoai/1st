@@ -3,7 +3,7 @@
 		"name": "臺灣",
 		"leaderName": "NO NAME",
 		"adjective": ["alien"],
-		"startBias": ["Grassland"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "主權在民",
