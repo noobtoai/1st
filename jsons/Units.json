@@ -11,6 +11,16 @@
 		"cost": 0,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Undead Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "The Undead",
+		"replaces": "Settler",
+		"movement": 5,
+		"strength": 100,
+		"upgradesTo": "Swordsman",
+		"obsoleteTech": "Metal Casting",
 	}
 
 ]
