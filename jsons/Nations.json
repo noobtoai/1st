@@ -7,7 +7,7 @@
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "主權在民",
-		"startIntroPart2": "人民組成國家",
+		"startIntroPart2": "寧死不屈",
 		
 		"declaringWar": "來玩啊!",
 		"attacked": "自以為是的傢伙!",
@@ -27,18 +27,16 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [37,16,16],
 		"innerColor": [255,200,200],
 		"unique": [
-			"Comment [Unable to gain Settlers or found more than one city]",
-			"Free [Gravedigger] appears <hidden from users>",
 			"[-99]% Unhappiness from [Population] [in all cities]",
-			"[+333]% [Culture] [in all cities]",
-			"[+333]% [Science] [in all cities]",
-			"[+333]% growth [in all cities]",
-			"[+2000]% Strength <vs [City-States]>",
+			"[+10]% [Culture] [in all cities]",
+			"[+33]% [Science] [in all cities]",
+			"[+5]% growth [in all cities]",
+			"[+20]% Strength <vs [City-States]>",
 			"Comment [Massive penalty in all interactions with City-States]",
-			"[+500]% City-State Influence degradation <hidden from users>",
+			"[+150]% City-State Influence degradation <hidden from users>",
 			"Resting point for Influence with City-States is increased by [-60] <hidden from users>",
 			"Gifts of Gold to City-States generate [-100]% more Influence <hidden from users>",
 			"[+500]% Golden Age length",
@@ -47,11 +45,8 @@
 			"[All] units gain the [Breach the Walls] promotion",
 			"[All] units gain the [Eat the Living] promotion",
 			"Gain a free [Infection] [in all cities]",
-			"[+1000]% Strength <for [All] units> <when defending> <when fighting in [Graveyard] tiles>"],
 		
-		"cities": ["府城","打狗","麻豆社","竹塹","淡水","噶瑪蘭","牡丹社","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["府城","打狗","麻豆社","竹塹","淡水","噶瑪蘭","牡丹社","金瓜石","信義區",
+			"電訊之都"]
 	}
 ]
