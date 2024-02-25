@@ -14,6 +14,7 @@
 	}
 	{
 		"name": "征服者",
+		"unitType": "Civilian",
 		"replaces": "Settler",
 		"uniqueTo": "臺灣",
 		"movement": 12,
@@ -22,6 +23,7 @@
 	}
 	{
 		"name": "侵占王",
+		"unitType": "Sword",
 		"replace": "Warrier",
 		"uniqueTo": "臺灣",
 		"movement": 13,
