@@ -2,7 +2,8 @@
     {
 		"name": "農村",
 		"uniqueTo": "臺灣",
-		"food": 1,
+		"replaces":"Farm",
+	    	"food": 1,
 		"gold": 1,
 		"production": 2,
 		"happiness": 2,
@@ -17,6 +18,7 @@
 	{
 		"name": "田埂",
   	        "uniqueTo": "臺灣",
+		"replaces": "Railroad"
 		"terrainsCanBeBuiltOn": ["Plains"],
 		"turnsToBuild": 2,
 		"techRequired": "Railroads",
