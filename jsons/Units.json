@@ -21,8 +21,7 @@
 		"strength": 810,
 		"cost": 0,
 		"upgradesTo": "Swordsman",
-		"obsoleteTech": "Metal Casting",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Unbuildable"],
+		"uniques" : "May upgrade to [Spearman] through ruins-like effects",
 
 	}
 
