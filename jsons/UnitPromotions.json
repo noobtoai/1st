@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Undead",
+		"uniques": ["Uncapturable", "[+1000]% Strength <vs [Military] units>", "Always capture killed [Military] units", "[+25] HP when healing"]
+	},
+	{
+		"name": "Breach the Walls",
+		"uniques": ["[+150]% Strength <vs cities> <when attacking>","Double movement in [Fallout]", "[+100]% Strength <when fighting in [Fallout] tiles>"]
+	},
+	{
+		"name": "Eat the Living",
+		"uniques": ["Heals [100] damage if it kills a unit", "Earn [2000]% of killed [Military] unit's [Strength] as [Culture]", "Earn [10000]% of the damage done to [All] units as [Gold]"]
+	},
+	{
+		"name": "Hard to Kill Twice",
+		"uniques": ["[+1500]% Strength <when defending>"]
+	},
+	{
+		"name": "Sickening Plague",
+		"uniques": ["[-100]% Strength for enemy [Military] units in adjacent [All] tiles", "[+5]% Strength <vs [Wounded] units>"]
+	},
+	{
+		"name": "Summon the Lich King",
+		"uniques": ["[Great General] is earned [25]% faster"]
+	}
+]
