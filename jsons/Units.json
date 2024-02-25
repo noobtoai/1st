@@ -4,13 +4,12 @@
 		"unitType": "Ranged",
 		"uniqueTo": "臺灣",
 		"replaces": "Scout",
-		"movement": 10,
-		"strength": 100,
-		"rangedStrength": 20,
+		"movement": 20,
+		"strength": 10000,
+		"rangedStrength": 500,
 		"range": 15,
 		"cost": 0,
-		"promotions": ["All tiles cost 1 movement",
-				"Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
