@@ -2,16 +2,17 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"uniqueTo": "臺灣",
+		"replaces": "Scout",
+		"movement": 100,
+		"strength": 1000,
+		"rangedStrength": 100,
+		"range": 150,
+		"cost": 0,
+		"promotions": ["All tiles cost 1 movement","Ignores Zone of Control",
+				"May enter foreign tiles without open borders",
+				"Travel on Water tiles without embarking",
+				"Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
