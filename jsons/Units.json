@@ -9,7 +9,7 @@
 		"rangedStrength": 100,
 		"range": 5,
 		"cost": 0,
-		"promotions": ["Chu-Ko-Nu acility","Indirect Fire","Logistics","Accuracy I"],
+		"promotions": ["Indirect Fire","Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	},
 	{
