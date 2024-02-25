@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Phasers",
+		"name": "砲擊士",
 		"unitType": "Ranged",
 		"uniqueTo": "臺灣",
 		"replaces": "Scout",
@@ -12,4 +12,12 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
-]
+	{
+		"name": "征服者",
+		"uniteType": "Civilian",
+		"uniqueTo": "臺灣",
+		"movement": 12,
+		"strengh": 250,
+		"cost": 0,
+		"promotions": ["Undead",]
+	}
