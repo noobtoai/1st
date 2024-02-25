@@ -13,14 +13,15 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "Undead Warrior",
+		"name": "侵占王",
 		"unitType": "Sword",
-		"uniqueTo": "The Undead",
-		"replaces": "Settler",
-		"movement": 5,
-		"strength": 100,
+		"replace": "Settler",
+		"uniqueTo": "臺灣",
+		"movement": 13,
+		"strengh" 300,
 		"upgradesTo": "Swordsman",
-		"obsoleteTech": "Metal Casting",
+		"cost": 0,
 	}
+
 
 ]
