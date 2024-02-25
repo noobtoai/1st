@@ -1,25 +1,27 @@
 [
 	{
-		"name": "砲擊士",
-		"unitType": "Ranged",
+		"name": "弓神",
+		"unitType": "Archery",
 		"uniqueTo": "臺灣",
-		"replaces": "Scout",
+		"replaces": "Archer",
 		"movement": 10,
 		"strength": 500,
 		"rangedStrength": 100,
-		"range": 4,
+		"range": 5,
 		"cost": 0,
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Chu-Ko-Nu acility","Indirect Fire","Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	},
 	{
-		"name": "Undead Warrior",
-		"unitType": "Sword",
+		"name": "民兵",
+		"unitType": "Civilian",
 		"uniqueTo": "臺灣",
-		"replaces": "Settler",
+		"replaces": "Worker",
 		"movement": 20,
 		"strength": 810,
 		"cost": 0,
+		"promotions": ["Woodsman","Sentry","Great Generals I"]
+		"uniques": "Can't be baptured",
 
 	}
 
