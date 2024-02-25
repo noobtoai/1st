@@ -13,14 +13,12 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "侵占王",
-		"unitType": "Sword",
-		"replace": "Settler",
+		"name": "Gravedigger",
 		"uniqueTo": "臺灣",
-		"movement": 13,
-		"strengh" 300,
-		"upgradesTo": "Swordsman",
-		"cost": 0,
+		"unitType": "Civilian",
+		"movement": 20,
+		"obsoleteTech": "Agriculture",
+		"uniques": "Founds a new city",
 	}
 
 
