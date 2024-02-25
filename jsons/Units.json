@@ -14,11 +14,19 @@
 	}
 	{
 		"name": "征服者",
-		"uniteType": "Civilian",
-		"obsoleteTech": "Agriculture",
+		"replaces": "Settler",
 		"uniqueTo": "臺灣",
 		"movement": 12,
 		"strengh": 250,
 		"cost": 0,
+	}
+	{
+		"name": "侵占王",
+		"replace": "Warrier",
+		"uniqueTo": "臺灣",
+		"movement": 13,
+		"strengh" 300,
+		"cost": 0,
+		
 	}
 ]
