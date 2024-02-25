@@ -20,7 +20,7 @@
 		"movement": 20,
 		"strength": 810,
 		"cost": 0,
-		"uniques": "Can build Land improvements on tiles"
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"promotions": ["Woodsman","Sentry","Great Generals I"]
 
 
