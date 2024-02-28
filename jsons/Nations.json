@@ -40,8 +40,7 @@
 			"Gain [100] [Production] <in cities with at least [3] [Population]> ",
 			"[+5] Movement <in [Water] tiles>",
 			"Military Units start with [45] XP",
-			"[+150]% Production [in all cities]”
-			]
+			"[+150]% Production [in all cities]"]
 	},
 	{
 		"name": "臺灣",
