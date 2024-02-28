@@ -1,8 +1,8 @@
 [
 	{
 		"name": "The God",
-		"outerColor": [10, 255, 3],
-	   	 "innerColor": [255,12,35],
+		"outerColor": [10, 255, 230],
+	   	 "innerColor": [120,150,35],
 		"leaderName": "%^$#%^*&*",
 		"adjective": ["Adjective"],
 		"startBias": ["Plains"],
