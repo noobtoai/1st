@@ -21,7 +21,7 @@
 
 		"uniques": [
 			"Receive a tech boost ",
-			"[+90]% happiness from the number of cities",
+			"[-90]% unhappiness from the number of cities",
 			"[-50]% construction time for [All] improvements","No movement cost to pillage <for [All] units>",
 			"[+120]% Strength <for [All] units> ",
 			"[+10 Gold, +20 Production] from [Mountain] tiles [in all cities]",
@@ -40,7 +40,7 @@
 			"Gain [100] [Production] <in cities with at least [3] [Population]> ",
 			"[+5] Movement <in [Water] tiles>",
 			"Military Units start with [45] XP",
-			"[+150]% Production [in all cities]"]
+			"[+15]% Production [in all cities]"]
 	},
 	{
 		"name": "臺灣",
