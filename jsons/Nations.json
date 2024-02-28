@@ -1,8 +1,8 @@
 [
 	{
 		"name": "The God",
-		"outerColor": [255, 255, 255],
-	   	 "innerColor": [255,255,255],
+		"outerColor": [10, 255, 3],
+	   	 "innerColor": [255,12,35],
 		"leaderName": "%^$#%^*&*",
 		"adjective": ["Adjective"],
 		"startBias": ["Plains"],
@@ -23,20 +23,21 @@
 			//"Receive a tech boost ",
 			"[-90]% unhappiness from the number of cities",
 			"[-50]% construction time for [All] improvements","No movement cost to pillage <for [All] units>",
-			"[+120]% Strength <for [All] units> ",
+			"[+500]% Strength <for [All] units> ",
 			"[+10 Gold, +20 Production] from [Mountain] tiles [in all cities]",
 			"[+150]% City Strength from defensive buildings",		
 			"[+3] Sight <for [All] units>",
-			"[-50]% Unhappiness from [Population] [in all cities]",
+			"[-75]% Unhappiness from [Population] [in all cities]",
 			"[20] HP when healing <for [All] units>"
 			"[+10 Science] from all [Science] buildings",
 			"[+10 Gold] from all [Science] buildings",
 			"Damage is ignored when determining unit Strength <for [All] units>",
-			"[+30]% Strength <vs [City-states]>",
+			"[+130]% Strength <vs [City-states]>",
 			"[+50]% Golden Age length",
 			"City-State territory always counts as friendly territory",
 			"[+3] Movement <for [Land] units>",
-			"[-25]% maintenance on road & railroads",
+			"[-65]% maintenance on road & railroads",
+			"[+150]% [Production] [in all cities]",
 			"Gain [100] [Production] <in cities with at least [3] [Population]> ",
 			"[+5] Movement <in [Water] tiles>"]
 		"cities": [
