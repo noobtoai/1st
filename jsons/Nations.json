@@ -44,7 +44,7 @@
 			"[+10 Culture] per [2] population [in this city]",
 			"[All] units gain the [Breath] promotion",
 			"[All] units gain the [Ninja] promotion",
-			"[All] units gain the [Bushido] promotion"],
+			"[All] units gain the [Bushido] promotion",
 			"Gain [100] [Production] <in cities with at least [3] [Population]> ",
 			"[+5] Movement <in [Water] tiles>"]
 		"cities": [
