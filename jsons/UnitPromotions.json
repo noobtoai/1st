@@ -5,11 +5,11 @@
 	},
 	{
 		"name": "Breath",
-		"uniques": ["Can move after attacking", "[+5] HP when healing", "[+15] Strength for [All] units "]
+		"uniques": ["Can move after attacking", "[+5] HP when healing"]
 	},
   {
 		"name": "Ninja",
-		"uniques": ["Uncapturable",  "Invisible to non-adjacent units","All tiles cost 0.25 movement"]
+		"uniques": ["Uncapturable",  "Invisible to non-adjacent units","All tiles cost 0.5 movement"]
 	},
   {
 		"name": "Bushido",
