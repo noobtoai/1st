@@ -2,5 +2,17 @@
   {
 		"name": "Undead",
 		"uniques": ["Uncapturable",  "May capture killed [Military] units", "[+5] HP when healing"]
+	},
+	{
+		"name": "Breath",
+		"uniques": ["Can move after attacking", "[+5] HP when healing", "[+15] Strength for [All] units "]
+	},
+  {
+		"name": "Ninja",
+		"uniques": ["Uncapturable",  "Invisible to non-adjacent units","All tiles cost 0.25 movement"]
+	},
+  {
+		"name": "Bushido",
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","[-30]% Strength for enemy [Military] units in adjacent [All] tiles"]
 	}
 ]
