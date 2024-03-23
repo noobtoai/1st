@@ -21,15 +21,15 @@
 
 		"uniques": [
 			//"Receive a tech boost ",
-			"[-90]% unhappiness from the number of cities",
+			"[-95]% unhappiness from the number of cities",
 			"[-50]% construction time for [All] improvements","No movement cost to pillage <for [All] units>",
 			"[+500]% Strength <for [All] units> ",
 			"[+10 Gold, +20 Production] from [Mountain] tiles [in all cities]",
 			"[+150]% City Strength from defensive buildings",		
 			"[+3] Sight <for [All] units>",
-			"[-75]% Unhappiness from [Population] [in all cities]",
+			"[-80]% Unhappiness from [Population] [in all cities]",
 			"[20] HP when healing <for [All] units>"
-			"[+10 Science] from all [Science] buildings",
+			//"[+10 Science] from all [Science] buildings",
 			"[+10 Gold] from all [Science] buildings",
 			"Damage is ignored when determining unit Strength <for [All] units>",
 			"[+130]% Strength <vs [City-states]>",
@@ -37,11 +37,14 @@
 			"City-State territory always counts as friendly territory",
 			"[+3] Movement <for [Land] units>",
 			"[-65]% maintenance on road & railroads",
-			"[+150]% [Production] [in all cities]",
+			"[+250]% [Production] [in all cities]",
 			"[+5 Production] per [1] population [in this city]",
 			"[+1 Gold] per [2] population [in this city]",
-			"[+1 Science] per [1] population [in this city]",
+			"[+2 Science] per [1] population [in this city]",
 			"[+10 Culture] per [2] population [in this city]",
+			"[All] units gain the [Breath] promotion",
+			"[All] units gain the [Ninja] promotion",
+			"[All] units gain the [Bushido] promotion"],
 			"Gain [100] [Production] <in cities with at least [3] [Population]> ",
 			"[+5] Movement <in [Water] tiles>"]
 		"cities": [
