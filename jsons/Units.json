@@ -14,12 +14,25 @@
 	{
 		"name": "民兵",
 		"unitType": "Civilian",
-		"uniqueTo": ["臺灣","The God"],
+		"uniqueTo": "臺灣",
 		"replaces": "Worker",
 		"movement": 8,
 		"strength": 100,
 		"cost": 0,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"promotions": ["Woodsman","Sentry","Great Generals I"]
+
+
+	},
+	{
+		"name": "民兵",
+		"unitType": "Civilian",
+		"uniqueTo": "The God",
+		"replaces": "Worker",
+		"movement": 7,
+		"strength": 30,
+		"cost": 0,
+		"uniques": ["Can build [All] improvements on tiles", "Automation is a primary action"],
 		"promotions": ["Woodsman","Sentry","Great Generals I"]
 
 
